@@ -1,9 +1,9 @@
 # Denis Myakishev
 # Contact with me
 ######
-  *__Phone:__ +375291067967;
-  *__Mail:__ denmyakishev@mail.ru;
-  *__Discord:__ LAMPO4KA#6059.
+*__Phone:__ +375291067967;
+*__Mail:__ denmyakishev@mail.ru;
+*__Discord:__ LAMPO4KA#6059.
 ====
 # About me
 ######
