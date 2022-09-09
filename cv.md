@@ -3,8 +3,9 @@
 * __Phone:__ +375291067967;
 * __Mail:__ denmyakishev@mail.ru;
 * __Discord:__ LAMPO4KA#6059.
-====
 # About me
+
+
 I wanna to be a built IT specialist in the field of Web development. I like to write code and deal with interesting tasks . I love learning and know how to work in a team. Previously, I worked for a web page creating company for two months.
 ====
 # What I know
