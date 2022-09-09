@@ -4,17 +4,21 @@
 * __Mail:__ denmyakishev@mail.ru;
 * __Discord:__ LAMPO4KA#6059.
 ### About me
+
   I wanna to be a built IT specialist in the field of Web development. I like to write code and deal with interesting tasks . I love learning and know how to work in a team. Previously, I worked for a web page creating company for two months.
+
 ====
+
 ### What I know
+
 I know the basics of: 
-*__HTML__; 
-*__CSS__;
-*__JS__.
+* __HTML__; 
+* __CSS__;
+* __JS__.
 Also work with __Git__ version control system. 
 Studied for a while:
-*__Bootstrap 5__;
-*__Vue.js__.
+* __Bootstrap 5__;
+* __Vue.js__.
 ====
 ### My code example
 ```
