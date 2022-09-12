@@ -1,2 +1,2 @@
-https://lampo4kad.github.io/rsschool-cv/cv
-https://lampo4kad.github.io/rsschool-cv/
+https://lamp4kad.github.io/rsschool-cv/cv
+https://lamp4kad.github.io/rsschool-cv/
