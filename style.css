@@ -180,3 +180,28 @@ body {
   left: 0;
   object-fit: cover;
 }
+
+.footer {
+}
+.footer__container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer__githab-link {
+
+}
+
+.footer__link{
+  color: white;
+  text-decoration: underline;
+}
+
+.footer__image {
+  display: block;
+  min-width: 100px;
+  min-height: 50px;
+}
+
+.footer__img{
+}
